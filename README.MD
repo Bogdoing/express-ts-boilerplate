@@ -10,13 +10,13 @@
 
 
 
-#
+<hr>
 tsconfig
     "rootDir": "./src",  
     "outDir": "./dist",
-##
+<hr>
 "scripts":{
     "watch": "tsc -w",
     "dev": "nodemon --inspect dist/index.js"
 },
-#
+<hr>
